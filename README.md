@@ -86,5 +86,5 @@ If your pins differ, edit `Core/Inc/app_config.h` and/or remap in CubeMX.
 
 ---
 
-## License
-MIT — credit appreciated.
+## Disclaimer
+I used AI to help write the README, select parts for the analog front end (which is covered in depth in another page within this repo), and to debug code along with assisting in learning and implementing Geortzel.  

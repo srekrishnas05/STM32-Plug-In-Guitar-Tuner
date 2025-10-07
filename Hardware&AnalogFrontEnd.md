@@ -6,6 +6,7 @@ First and foremost, here's the board I used. https://www.amazon.com/dp/B09MLGWBQ
 
 ## Accessories
 **All the accessories I used**
+
 Next thing is, having perfboards to build this on is awesome since you're soldering. I bought these https://www.amazon.com/dp/B0DBZ1BXFZ?ref=ppx_yo2ov_dt_b_fed_asin_title and they come in a bunch of sizes so you can use them for more projects.
 
 To get the actual guitar jack to plug in, buy these: https://www.amazon.com/dp/B07P77KZ3V?ref=ppx_yo2ov_dt_b_fed_asin_title. They're stereo and you only need mono so just solder to the respective prong that matches the one closer to the tip of the plug (if you actually see one of these, you'll understand what I mean, it isn't too bad at all).

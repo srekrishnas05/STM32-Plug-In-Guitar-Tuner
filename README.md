@@ -30,7 +30,7 @@ If your pins differ, edit `Core/Inc/app_config.h` and/or remap in CubeMX.
 4. **Tuning logic**
    - Two buttons select **Tuning** (Standard, Drop D, Drop B, Drop C#, Drop A) and **String** (low→high).
    - We **lock to the selected string** and compute **cents** vs target:
-     \[ \text{cents} = 1200 \log_2(f_\text{meas}/f_\text{target}) \]
+     text{cents} = 1200 log_2(f_measured/f_target) 
    - OLED shows tuning name, string, target Hz, measured Hz, and a ±50‑cent bar.
 
 5. **Display**
